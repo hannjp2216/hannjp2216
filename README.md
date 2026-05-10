@@ -5,7 +5,7 @@ My name is Hannia and I am an Engineering Physics student and aspiring researche
 
 ### 🚀 Beyond Research
 *   **Co-founder & Director of Outreach** at Club Espacial de Chiapas. 
-*   Passionate about space advocacy and bio-punk literature.
+*   Passionate about space advocacy and bio-punk, and noir literature.
 
 ### 🛠 Tech Stack
 *   **Programming:** Python (Pandas, NumPy, Scipy), MATLAB, R, Bash.
@@ -13,7 +13,7 @@ My name is Hannia and I am an Engineering Physics student and aspiring researche
 
 ### 🌍 Languages
 *   **Spanish:** Native
-*   **English:** C1 (TOEFL 628 pts)
+*   **English:** C1 
 *   **German:** A2
 <!--
 **hannjp2216/hannjp2216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
